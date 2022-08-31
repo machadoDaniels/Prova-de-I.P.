@@ -1,6 +1,11 @@
 # Aluno: Daniel Machado Pedrozo
 # Matrícula: 202202434
 
+'''3 - Você foi descontrair antes da prova de IP do BIA, e resolveu jogar umjogo online de Batalha naval
+(Jogo Battleship no Jogos 360). Se
+empolgou pois viu que conseguiria desenvolver a sua própria versão empython.
+Você desenvolveu uma versão para jogar com os colegas, umcontra o outro. Apresente e explique o seu código. '''
+
 
 import numpy as np
 '''Legenda:

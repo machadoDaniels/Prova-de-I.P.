@@ -1,6 +1,13 @@
 # Aluno: Daniel Machado Pedrozo
 # Matrícula: 202202434
 
+'''- Você recebeu um desafio de um colega do BIA que te perguntou comopoderia criar uma caça palavras em python, contendo no mínimo 3 palavras
+imputadas pelo usuário. Você dele ler um conjunto de palavras e gerar umcaça
+palavras. Um colega do BIA de 2020 te enviou um código, para ajudá-lo.(valor 2.0)
+
+A) Explique os algoritmos que o seu colega te apresentou
+B) Desenvolva a sua solução e explique'''
+
 
 def main():
     s = "programacao"  # Palavra base para o caça palavras

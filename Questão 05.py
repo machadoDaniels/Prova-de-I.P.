@@ -1,6 +1,9 @@
 # Aluno: Daniel Machado Pedrozo
 # Matrícula: 202202434
 
+'''EXTRA - Você começou a estudar numpy exercitando no colab queoprofessor Leonardo enviou em sala, gostou muito e quis propor umaquestão aceitando o desafio usando o que aprendeu. Desenvolveuumaquestão e inclusive que apresentou uma aplicação prática unindo outroconhecimento ou hobby que possui apresentando a solução comumcódigobemcomentado. (valor 1.0)
+[obs.: o uso agregado ou a substituição por outro framework estudado está liberadopor ser uma questão extra. Exemplo: Desenvolvimento usando umconhecimentoouhobby usando um framework de IA que tenha visto nos videos de frameworks das
+turmas anteriores. ]'''
 
 ''' Um lojista precisa ter um controle melhor de seus gastos, por isso, te contratou para fazer um programa que
 ajude calcular seu custo, preço de venda e lucro do primeiro trimestre do ano e gera um gráfico de barras para analisar

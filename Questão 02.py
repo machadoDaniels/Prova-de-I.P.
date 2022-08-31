@@ -1,6 +1,8 @@
 # Aluno: Daniel Machado Pedrozo
 # Matrícula: 202202434
-
+'''2 - Você ingressou em uma fase de um projeto de pesquisa no CEIA, nesseprojeto você irá auxiliar na análise de dados
+médicos para umplano de saúde. Foi levantada a planilha de dados a partir da mineração dos dados daoperadora junto com
+eus médicos, (planilha publicado no linkhttps://bit.ly/3RhcnGL).'''
 
 import pandas as pd
 xls = pd.read_excel('dadosmedicossaude.xlsx')
